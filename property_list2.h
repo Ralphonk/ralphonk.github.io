@@ -3,7 +3,7 @@
 
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Best PG's in Delhi | EasyPG</title>
+    <title> Best PG's in Delhi | EasyPG</title>
 
     <link href="css/bootstrap.min.css" rel="stylesheet" />
     <link href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" rel="stylesheet" />
@@ -93,7 +93,7 @@
                     <div class="property-name">Ruhill Paying Guest</div>
                     <div class="property-address">Tilak Nagar near mall road, Tilak Nagar</div>
                     <div class="property-gender">
-                        <img src="https://images.nobroker.in/images/8a9ff58287e781ea0187e8096db330f0/8a9ff58287e781ea0187e8096db330f0_71753_74773_large.jpg" />
+                        <img src="img/male.png" />
                     </div>
                 </div>
                 <div class="row no-gutters">
@@ -110,7 +110,7 @@
 
         <div class="property-card row">
             <div class="image-container col-md-4">
-                <img src="img/properties/1/eace7b9114fd6046.jpg" />
+                <img src="img/properties/1/eace7b9114fd6046.jpg\" />
             </div>
             <div class="content-container col-md-8">
                 <div class="row no-gutters justify-content-between">
